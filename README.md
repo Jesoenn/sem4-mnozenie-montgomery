@@ -1,7 +1,6 @@
-# sem4-OiAK-projekt
-Projekt mnożenia Montgomery'ego.
+# Projekt mnożenia Montgomery'ego
 
-## Włączenie symulacji w terminalu
+## Uruchomienie symulacji
 
 #### Przejdź do katalogu z projektem:
 
@@ -35,4 +34,4 @@ SOS	10	100	1000	0,496	True
 SOS	10	100	1000	0,545	True
 ```
 ### Źródło 
-[Mnożenia Montgomerego](MONTG-1-ieeemicro1996-3-26-multmontg.pdf)
+[Mnożenia Montgomery'ego](MONTG-1-ieeemicro1996-3-26-multmontg.pdf)
