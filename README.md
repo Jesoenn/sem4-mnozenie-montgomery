@@ -12,7 +12,7 @@ cd <ścieżka_do_projektu>
 ```bash
 montgomery.py --help
 ```
-#### Przykładowe odpalenie
+#### Przykładowe uruchomienie
 ```bash
 # Odpalenie dla algorytmu SOS dla 10 słów 64 bitowych i zapis wyniku do pliku Testy.txt
 montgomery.py 0 10 64 --file Testy.txt 
@@ -34,4 +34,5 @@ SOS	10	100	1000	0,488	True
 SOS	10	100	1000	0,496	True
 SOS	10	100	1000	0,545	True
 ```
-
+### Źródło 
+[Mnożenia Montgomerego](MONTG-1-ieeemicro1996-3-26-multmontg.pdf)
